@@ -1,80 +1,62 @@
 [
   {
-    "title": "A Jo",
-    "author": "Joanna Goddard",
-    "date": "28 May 2023",
-    "content": "Cup of Jo is a New York-based lifestyle, fashion, design, and parenting blog by Joanna Goddard. Goddard began the site in 2007 and it now includes contributing writers and editors Jenny Rosenstrach, Jannelle Sanchez, Thao Thai, Alex Ronan, Christine Pride and Catherine Newman, and formerly, Ashley C. Ford, Caroline Donofrio, Erica Chidi, Kim Rhodes, and Stella Blackmon. Goddard has written for Bene, Glamour, New York Magazine, The New York Times, and Elle"
-  },
-  {
-    "title": "Another Blog",
+    "title": "Lorem Ipsum",
     "author": "John Doe",
-    "date": "15 July 2022",
-    "content": "This is another example blog post."
+    "content": "Lorem ipsum",
+    "date": "2024-02-23"
   },
   {
-    "title": "React Tutorial",
+    "title": "Nulla euismod mauris",
     "author": "Jane Smith",
-    "date": "10 March 2023",
-    "content": "A tutorial on how to use React.js for building interactive web applications."
+    "content": "In hac habitasse platea dictumst. Nulla euismod mauris vel justo sagittis sodales.",
+    "date": "2024-02-22"
   },
   {
-    "title": "Learning JavaScript",
+    "title": "Aenean tempor",
     "author": "Alice Johnson",
-    "date": "5 April 2022",
-    "content": "Tips and tricks for mastering JavaScript programming language."
+    "content": "Aenean tempor leo",
+    "date": "2024-02-21"
   },
   {
-    "title": "CSS Tricks",
-    "author": "Bob Williams",
-    "date": "20 February 2023",
-    "content": "Useful CSS tips and techniques for designing beautiful websites."
+    "title": "Vivamus rhoncus",
+    "author": "Robert Brown",
+    "content": "Vivamus rhoncus, nisi at mollis vestibulum, libero metus aliquet magna.",
+    "date": "2024-02-20"
   },
   {
-    "title": "HTML Basics",
-    "author": "Emily Brown",
-    "date": "12 November 2022",
-    "content": "Introduction to HTML for beginners."
+    "title": "Suspendisse potenti",
+    "author": "Emily Davis",
+    "content": "Suspendisse potenti. Nullam nec turpis et ex eleifend imperdiet.",
+    "date": "2024-02-19"
   },
   {
-    "title": "Node.js Guide",
-    "author": "Michael Clark",
-    "date": "8 September 2023",
-    "content": "A comprehensive guide to Node.js development."
+    "title": "Integer lacinia",
+    "author": "Michael Wilson",
+    "content": "Integer lacinia nunc id dui blandit, nec suscipit nisl sagittis.",
+    "date": "2024-02-18"
   },
   {
-    "title": "Python Programming",
-    "author": "David Lee",
-    "date": "3 May 2022",
-    "content": "Learn Python programming language from scratch."
+    "title": "Fusce quis",
+    "author": "Laura Lee",
+    "content": "Fusce quis purus in dui ullamcorper tempus a ut turpis.",
+    "date": "2024-02-17"
   },
   {
-    "title": "Web Design Trends",
-    "author": "Sophia Johnson",
-    "date": "17 August 2022",
-    "content": "Latest trends in web design for 2023."
+    "title": "Ut sed malesuada",
+    "author": "Daniel Martinez",
+    "content": "Ut sed malesuada nisi. Sed auctor velit non est dapibus, eget posuere risus sollicitudin.",
+    "date": "2024-02-16"
   },
   {
-    "title": "JavaScript Frameworks",
-    "author": "Chris Anderson",
-    "date": "22 June 2023",
-    "content": "Comparison of popular JavaScript frameworks: React, Angular, and Vue."
+    "title": "Pellentesque habitant",
+    "author": "Sophia Anderson",
+    "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "date": "2024-02-15"
   },
   {
-    "title": "Title",
-    "author": "Author",
-    "date": "22 June 2023",
-    "content": "Content"
-  },
-  {
-    "title": "The Universe",
-    "author": "Erick Johnson",
-    "date": "2024-02-23",
-    "content": "The brief story of the universe"
-  },
-  {
-    "title": "The Universe",
-    "author": "Erick Johnson",
-    "date": "2024-02-23",
-    "content": "The brief story of the universe"
+    "title": "Donec eget erat",
+    "author": "David Taylor",
+    "content": "Donec eget erat at nunc efficitur sollicitudin. Nullam auctor sapien sit amet libero sollicitudin, at consequat nulla gravida.",
+    "date": "2024-02-14"
   }
 ]
